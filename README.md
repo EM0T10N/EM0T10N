@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Autumn, AKA @EM0T10N
 - 👀 I’m interested in everything IT - Python, C++, Java, Building
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning how to do a todo list using Python!
 - 📫 How to reach me - @ JUSTAUTUMNKELLY@GMAIL.COM
 
 <!---
